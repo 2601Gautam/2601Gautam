@@ -62,7 +62,7 @@
   <a href="https://leetcode.com/u/Gautam_2014/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode" />
   </a>
-  <a href="https://leetcode.com/u/Gautam_2014/" target="_blank">
+  <a href ="https://codeforces.com/profile/Gautam_modi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Codeforces" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/mg932y49v/" target="_blank">
